@@ -69,7 +69,7 @@ li, a {
     padding: 10px;
     border-radius: 30px;
     border: none;
-    background-color: #000000;
+    background-color: #ffffff;
     color: #007bff;
     margin: 20px auto;
     width: 180px;
@@ -177,7 +177,6 @@ li, a {
 
 .skills-image img{
     width: 100%;
-    border-radius: 20px;
     margin: 20px 0;
 }
 .skill-container{
